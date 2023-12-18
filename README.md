@@ -1,25 +1,40 @@
-# Probability & Statistics Course Project - Graphs Clustering
+# CE153-FOP
+Solutions to Dr. Fakouri's CE153: Fundamentals of Programming (Sharif University of Technology - Fall 2020) Assignments
 
-This repository hosts the code and solutions for a Probability and Statistics course project focusing on graph clustering. The project involves implementing 29 Python programs to solve 43 theoretical tasks, with detailed explanations provided for each task.
+## Overview
 
-## Repository Structure
+This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE153: Fundamentals of Programming course at Sharif University of Technology, Fall 2020, taught by Dr. Fakouri.
 
-**ProjectQs**: This pdf contains the task descriptions for the project. It includes all 43 theoretical questions that were addressed during the course.
-**ProjectAnswer**: Within this pdf, you can find the solutions to the theoretical tasks. Each solution is accompanied by a comprehensive explanation to aid understanding.
+## Table of Contents
 
-## Project Details
+- [Overview](#overview)
+- [Assignments](#assignments)
+- [Project](#project)
+- [Exams](#exams)
+- [Codenameh](#codenameh)
+- [Source](#source)
+- [Maintainer](#Maintainer)
 
-The primary goal of this project is to apply probability and statistical concepts to solve various tasks related to graph clustering. The solutions are implemented in Python and are designed to demonstrate a practical understanding of the course material.
+## Assignments
 
-## Contents
+In the "Assignments" folder, you will find the solutions to the seven practical assignments given during the course.
 
-**This repository includes**:
+## Project
 
-- Python code for 29 programs
-- Solutions to 43 theoretical tasks
-- Detailed explanations for each solution
-    
-## Maintainers
+In the "Project" folder, you will find my implementation of the Course's project.
+
+## Exams
+
+In the "Exams" folder, you will find the solutions to the midterm and final of the course.
+
+## Codenameh
+
+The folder labeled "Codenameh" houses exclusive course materials developed by the Teaching Assistants of the course.
+
+## Source
+
+The "Source" folder contains any additional course materials used in the lectures or assignments.
+
+## Maintainer
+
 - [Iman Mohammadi](https://github.com/Imanm02)
-- [Ali Shahali](https://github.com/alishahali1382)
-- [Parsa Massah](https://github.com/mparsam)

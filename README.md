@@ -21,7 +21,7 @@ In the "Assignments" folder, you will find the solutions to the six practical an
 
 ## Project
 
-In the "Project" folder, you will find my implementation of the Course's project.
+In the "Project" folder, you will find our team's solutions to the course's project.
 
 ## Exams
 

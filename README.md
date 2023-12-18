@@ -1,9 +1,9 @@
 # CE153-FOP
-Solutions to Dr. Fakouri's CE153: Fundamentals of Programming (Sharif University of Technology - Fall 2020) Assignments
+Solutions to Dr. Sharifi's CE181: Engineering Probability and Statistics (Sharif University of Technology - Fall 2022) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE153: Fundamentals of Programming course at Sharif University of Technology, Fall 2020, taught by Dr. Fakouri.
+This repository contains solutions to the assignments and exams, and other useful resources for the CE181: Engineering Probability and Statistics course at Sharif University of Technology, Fall 2022, taught by Dr. Sharifi.
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# CE153-PS
+# CE181-PS
 Solutions to Dr. Sharifi's CE181: Engineering Probability and Statistics (Sharif University of Technology - Fall 2022) Assignments
 
 ## Overview

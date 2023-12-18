@@ -11,6 +11,7 @@ This repository contains solutions to the assignments and exams, and other usefu
 - [Assignments](#assignments)
 - [Project](#project)
 - [Exams](#exams)
+- [Quizzes](#quizzes)
 - [Source](#source)
 - [Maintainer](#Maintainer)
 
@@ -25,6 +26,10 @@ In the "Project" folder, you will find my implementation of the Course's project
 ## Exams
 
 In the "Exams" folder, you will find the solutions to the midterm and final of the course.
+
+## Quizzes
+
+In the "Quizzes" folder, you will find the solutions to the quizzes of the course.
 
 ## Source
 
